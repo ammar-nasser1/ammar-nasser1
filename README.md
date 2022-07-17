@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - Hi ,i am Ammar
 - i currently working At x.Ware
-- https://www.linkedin.com/in/ammar-abdel-nasser-6a1a071a5/
+-[linkedin] https://www.linkedin.com/in/ammar-abdel-nasser-6a1a071a5/
