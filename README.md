@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi there 👋
-I'm Ammar and I'm currently working on a frontend web development bootcamp.
+I'm Amar and I'm currently working on a frontend web development bootcamp.
 Reach me at: https://www.linkedin.com/in/ammar-abdel-nasser-6a1a071a5/
